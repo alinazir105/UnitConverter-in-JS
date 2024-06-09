@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container1{
+    text-align: center;
+    background: #6943FF;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#heading{
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+#numInput{
+    background: #6943FF;
+    color: white;
+    font-family: Inter;
+    font-size: 58px;
+    font-weight: 800;
+    width: 100px;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 5px;
+    outline: none;
+    margin-top: 40px;
+    padding: 10px;
+}
+
+#convert-btn{
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 500;
+    background: white;
+    color: #3D3D3D;
+    border-style: none;
+    padding: 10px 30px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.container2{
+    text-align: center;
+    background: #1F2937;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+}
+
+.text-container{
+    background: #273549;
+    width: 60%;
+    margin: auto;
+    padding: 40px;
+}
+
+#unit{
+    color: #CCC1FF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+p{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+}
